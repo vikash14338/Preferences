@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Go GagaPreferences</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutAgePreferences">Age range preference allow us to suggest matches accordingly.
+    Some Matches may fall outSide the specified range
+    </string>
+    <string name="descaboutnotification">We strongly recommend to keep the notification ON.You don\'t want to miss a chat notification from your match
+    </string>
+    <string name="descabouthide">Here to only help friends? Just hide your profile and be a match-maker</string>
+    <string name="about_language">Please select your language of choice. The language change will take place
+    once you go to the home screen
+    </string>
+    <string name="about_gaga_notification">Never miss an update by whitelisting our app from battery optimization</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+</resources>
